@@ -1,0 +1,15 @@
+git
+zsh
+openssh
+openssl
+docker
+htop
+libssh
+jq
+mosh
+nmap
+vim
+rbenv
+nvm
+yarn
+youtube-dl

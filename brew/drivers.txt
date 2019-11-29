@@ -1,0 +1,3 @@
+logitech-control-center
+logitech-gaming-software
+logitech-options
